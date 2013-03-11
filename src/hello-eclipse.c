@@ -19,5 +19,6 @@ int main(void) {
 
 int add()
 {
+	printf("Add Function");	
 	return 0;
 }
