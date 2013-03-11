@@ -13,5 +13,11 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	puts("Goodbye");
 	return EXIT_SUCCESS;
+}
+
+int add()
+{
+	return 0;
 }
